@@ -5,6 +5,7 @@
 <ul>
 <li>I'm interested:</li>
 <pre><code>→JS
+→JAVA
 →HTML 
 →CSS
 </code></pre>
