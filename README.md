@@ -2,6 +2,8 @@
 
 🌱 Learning programming 
 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=belldaiana&layout=compact&theme=dark&hide=html,SCSS,CSS">
+
 # Technologies & Tools
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
