@@ -19,8 +19,10 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 
 # Soft Skills:
-<p>Learning Agility</p>
-    <p>Comunicación efectiva</p>
+   <ul>
+        <li style="color: #FC5CF9; font-family: 'Times New Roman', Times, serif; font-size: 20px;" >Learning Agility</li>
+        <li style="color: #FC5CF9; font-family: 'Times New Roman', Times, serif; font-size: 20px;">Comunicación efectiva</li>
+   </ul>
     
 # Connect with me:
     
