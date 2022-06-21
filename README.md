@@ -1,10 +1,10 @@
-# Hi, I am Daiana Belen Miño! 👋
+# ***Hi, I am Daiana Belen Miño! 👋***
 
 🌱 Learning programming 
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=belldaiana&layout=compact&theme=dark&hide=html,SCSS,CSS">
 
-# Technologies & Tools:
+## ***Technologies & Tools:***
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
@@ -18,16 +18,14 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 
-# Soft Skills:
-   <ul>
-        <li style="color: #FC5CF9; font-family: 'Times New Roman', Times, serif; font-size: 20px;" >Learning Agility</li>
-        <li style="color: #FC5CF9; font-family: 'Times New Roman', Times, serif; font-size: 20px;">Comunicación efectiva</li>
-   </ul>
-    
-# Connect with me:
+## ***Soft Skills:***
+   <p>:muscle: Learning Agility</p>
+   <p>:speech_balloon: Comunicación efectiva</p>
+        
+## ***Connect with me:***
     
  <p align="center">
-  <a href="mailto:belcita814@gmail.com" style="color:#FF0000" target="blank">
+  <a href="mailto:belcita814@gmail.com" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="midu.dev" height="28px" width="28px" />
   </a>
   <a href="https://twitter.com/BelenDaianaM" target="blank">
