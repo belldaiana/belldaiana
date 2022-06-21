@@ -20,7 +20,7 @@
 
 ## ***Soft Skills:***
    <p>:muscle: Learning Agility</p>
-   <p>:speech_balloon: Comunicación efectiva</p>
+   <p>:speech_balloon: Clear Communication</p>
         
 ## ***Connect with me:***
     
