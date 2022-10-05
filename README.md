@@ -1,6 +1,6 @@
 # ***Hi, I am Daiana Belen Miño! 👋***
 
-🌱 Learning programming 
+:space_invader: Full Stack Developer 
 
 ## ***Technologies & Tools:***
 
