@@ -19,6 +19,7 @@
 ## ***Soft Skills:***
    <p>:muscle: Learning Agility</p>
    <p>:speech_balloon: Clear Communication</p>
+   <p>:dancing_women: Team work and Collaboration</p>
         
 ## ***Connect with me:***
     
