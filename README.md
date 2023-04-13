@@ -4,22 +4,27 @@
 
 ## ***Technologies & Tools:***
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code> 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img width="10%" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png"></code>
+<code><img width="10%" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"></code>
+<code><img width="10%" src="https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png"></code>
+<code><img width="10%" src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png"></code>
+<code><img width="10%" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png"></code>
+<code><img width="10%" src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png"></code>
+<code><img width="10%" src="https://seeklogo.com/images/M/mongodb-logo-427DDF8FDE-seeklogo.com.png"></code>
+<code><img width="10%" src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png?v=637908007690000000"></code>
+<code><img width="10%" src="https://seeklogo.com/images/B/bootstrap-5-logo-85A1F11F4F-seeklogo.com.png"></code>
+<code><img width="10%" src="https://seeklogo.com/images/F/figma-logo-3C82F1B96E-seeklogo.com.png"></code>
+<code><img width="10%" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"></code>
+<code><img width="10%" src="https://seeklogo.com/images/P/postman-api-platform-logo-D6B8AB9B0D-seeklogo.com.png"></code>
+<code><img width="10%" src="https://seeklogo.com/images/S/spring-boot-logo-9D6125D4E7-seeklogo.com.png"></code>
+<code><img width="10%" src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png"></code>
+
 
 ## ***Soft Skills:***
    <p>:muscle: Learning Agility</p>
    <p>:speech_balloon: Clear Communication</p>
    <p>:dancing_women: Team work and Collaboration</p>
+   <p>:bulb: Problem solving</p>
         
 ## ***Connect with me:***
     
