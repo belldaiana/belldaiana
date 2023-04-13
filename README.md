@@ -4,7 +4,7 @@
 
 ## ***Technologies & Tools:***
 
-<code><img width="10%" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png"></code>
+<img width="10%" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png">
 <code><img width="10%" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"></code>
 <code><img width="10%" src="https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png"></code>
 <code><img width="10%" src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png"></code>
